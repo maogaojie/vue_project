@@ -14,7 +14,7 @@
     "browser-md5-file": "^1.1.1",
     "crypto": "^1.0.1",
     "install": "^0.13.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "npm": "^6.12.0",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
